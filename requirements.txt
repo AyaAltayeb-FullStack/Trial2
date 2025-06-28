@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+websockets==10.4
+ocpp==0.10.1
+httpx
+python-dotenv
+django
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+black==23.7.0
+isort==5.12.0
+autopep8==2.0.2
+yapf==0.32.0
+httpx==0.27.0
